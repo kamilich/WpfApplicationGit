@@ -23,5 +23,11 @@ namespace WpfApplicationGit
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, RoutedEventArgs e)
+        {
+            //kljlkdsjf;lkasdjf;lksdjf;ksdjf;
+            //dfkjdkfsaj;lkfj;sdkjf;daskj;k
+        }
     }
 }
