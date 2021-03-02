@@ -8,6 +8,7 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="157,48,0,0" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="50,279,0,0" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </Window>
