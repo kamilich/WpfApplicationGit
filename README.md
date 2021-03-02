@@ -1,3 +1,3 @@
-# WpfApplicationGit2
+# WpfApplicationGit
 Second
 Test Git project
